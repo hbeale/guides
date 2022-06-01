@@ -1,6 +1,7 @@
 # Example lab notebook
 
 Server/Computer: courtyard
+
 Login ID: hcbeale
 
 Time: 2022.06.01_12.35.13
